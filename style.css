@@ -8,14 +8,14 @@ header{
     padding: 20px;
     font-size: 32px;
     color: rgb(42,122,228);
-  
 }
+
 section{
     background: rgb(65 54 70);
     padding: 80px;
     padding-top: 80px;
     display: flex;
-    justify-content: ;
+    justify-content:center;
 }
 .chamada-texto{
     margin-right: 5%;
