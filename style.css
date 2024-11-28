@@ -2,6 +2,7 @@ body{
     background: black;
     color: pink;
     margin: 0px;
+    font-family: sans-serif;
 }
 header{
     border-bottom: solid 2px rgb(160, 228, 42);
